@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(236, 182, 232);
+    
+}
+
+
+img
+{
+    mix-blend-mode: normal;
+    border-radius: 100%;
+    display: flex;
+}
+
+fieldset
+{
+    width: auto;
+    -webkit-text-stroke-color: red;
+}
+
+legend
+{
+    color: blue;
+}
+
+
+.one
+{
+    float: left;
+}
+
+.two
+{
+    float: both;
+}
+
+
+.the
+{
+    float: right; 
+}
